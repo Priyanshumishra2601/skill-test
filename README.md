@@ -24,7 +24,7 @@ A PSD to HTML conversion, I was given a file from which I extracted the images. 
 
 ## Usage
 
-![](/images/screenshot1.jpg)
+![](/images/Screenshot_2024-03-11-15-39-17-118_com.android.chrome.jpg)
 
 
 ## Questions :question:
